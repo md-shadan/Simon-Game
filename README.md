@@ -17,7 +17,7 @@
 -  The game continues to add one step to the sequence each time the player successfully replicates it. The longer the game goes on, the more challenging it becomes as the sequences become more complex and harder to remember.
 
 - If the player makes a mistake by pressing the wrong button or pressing them in the wrong order, the game will end, and the player's score will be displayed.
-
+ 
 - The goal is to achieve the highest score possible by correctly repeating the longest sequence of colors and sounds.
 
 - Some variations of Simon may have additional modes or features, but the core gameplay always involves remembering and reproducing sequences of colors and sounds.
