@@ -23,7 +23,8 @@
 - Some variations of Simon may have additional modes or features, but the core gameplay always involves remembering and reproducing sequences of colors and sounds.
 
 
-![game](https://github.com/md-shadan/Simon-Game/assets/110284861/a96ed57b-adc5-4d0e-85b9-d0180fbfd674)
+
+![game](https://github.com/md-shadan/Simon-Game/assets/110284861/689ff5ae-124d-4346-9983-1d90775fad2a)
 
 
 #### Simon is not only a fun game to play solo but also an exciting challenge to compete with friends and family to see who can achieve the highest score. It's an excellent way to exercise your memory and concentration while having a blast.
